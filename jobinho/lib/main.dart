@@ -82,7 +82,7 @@ class _SunflowerState extends State<Sunflower> {
         ),
       ),
       home: Scaffold(
-        appBar: AppBar(title: Text("Sunflower")),
+        appBar: AppBar(title: Text("teste")),
         drawer: Drawer(
             child: ListView(
           children: [
